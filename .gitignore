@@ -1,3 +1,4 @@
 .qodo
 .venv
 data/
+__pycache__/
